@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aminemazari
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently work in multiple projects using react js 
+- 💞️ I’m looking for inter as front-end dev
+- 📫 email me : a.mazariabdessameud@gmail.com 
 
 <!---
 Aminemazari/Aminemazari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
