@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently work in multiple projects using react js 
 - 💞️ I’m looking for inter as front-end dev
-- 📫 email me : a.mazariabdessameud@gmail.com 
+- 📫 email me : a.mazariabdessameud@gmail.com
+- Protfolio:https://www.mazari.pro/
 
 <!---
 Aminemazari/Aminemazari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
