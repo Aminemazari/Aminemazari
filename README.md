@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aminemazari
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently work in multiple projects using react js 
+- 🌱 I’m currently work in multiple projects
 - 💞️ I’m looking for inter as front-end dev
 - 📫 email me : a.mazariabdessameud@gmail.com
 - Protfolio:https://www.mazari.pro/
