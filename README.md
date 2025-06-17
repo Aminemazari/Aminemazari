@@ -14,7 +14,7 @@
 
 🏫 I'm currently a **Computer Systems Engineering** student at the **Higher School of Computer Science**.
 
-🙋‍♂️ I'm interested in **Software Engineering** and **Cyber Security**!
+🙋‍♂️ I'm interested in **Software Engineering** .
 
 💁‍♂️ I'm looking to collaborate on **open source software projects**.
 
