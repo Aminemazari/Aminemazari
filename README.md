@@ -1,77 +1,148 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius: 50%;" alt="Amine Mazari">
-</p>
+<div align="center">
 
-<h1 align="center">Hi, I'm Amine Mazari 👋</h1>
-<p align="center">Frontend Developer | Hackathon Winner | Incubated Startup Founder</p>
-<p align="center">Student @ ESI-SBA 🇩🇿</p>
+# 🌟 WELCOME 🌟
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Amine+Mazari;Software+Engineer+%26+Cybersecurity+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
-## 📞 Other ways to reach me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aminemazari/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:a.mazariabdessameud@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://wa.me/213772236426"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://github.com/Aminemazari"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+</div>
 
 ---
 
-## 💻 Languages and Technologies I'm Proficient At
+## 👨‍💻 Hello there, This is Amine!
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
+🏫 I'm currently a **Computer Systems Engineering** student at the **Higher School of Computer Science**.
 
-  <!-- Backend / DB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+🙋‍♂️ I'm interested in **Software Engineering** and **Cyber Security**!
 
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" />
-</p>
+💁‍♂️ I'm looking to collaborate on **open source software projects**.
+
+📫 Reach me via **a.mazariabdessameud@gmail.com**
+
+<br clear="both"/>
 
 ---
 
-## 🏆 Achievements
+## 🌐 OTHER WAYS TO REACH ME
 
-- 🥇 First Prize — INNOVERSE Hackathon by Sonatrach  
-- 🥈 Second Prize — Devfest 2023 National Hackathon  
-- 🥈 Second Prize — Alpha IA Datathon  
-- 🧠 Incubated — Ideator Program (2+ year incubation)  
-- 🏅 Top 10 — HackWave, MicroHack, TeleHack Hackathons  
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminemazari/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.mazariabdessameud@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-number)
+
+</div>
 
 ---
 
-## 📚 Current Status
+## 🚀 Languages and Technologies I'm Proficient At
 
-🎓 Fourth-year student at **ESI-SBA**  
-🚀 Project Leader of **Plany** (reservation platform)  
-💼 Interned as a Frontend Developer at **Zidio Development**
+### 💻 Languages
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++"/>
+</div>
+
+### 🎨 Frontend Technologies
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" title="Redux"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material-UI" title="Material-UI"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" height="40" alt="Ant Design" title="Ant Design"/>
+</div>
+
+### 🛠️ Others
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="Chrome Extensions" title="Chrome Extensions"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" title="Firebase"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" title="LaTeX"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Operating Systems" title="Operating Systems"/>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminemazari&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+**✨ "Code is like humor. When you have to explain it, it's bad." ✨**
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/your-github-username)
+
+</div>
+```
+
+## 🎯 Key Updates Made:
+
+### ✨ **Modern Devicons Integration**:
+- **Languages**: JavaScript, Java, Python, C++ with their official colored icons
+- **Frontend**: React, Next.js, CSS3, Redux, Material-UI, Bootstrap, Ant Design
+- **Tools**: Git, Chrome, Firebase, LaTeX, MySQL, Linux icons
+
+### 🎨 **Enhanced Visual Appeal**:
+- **Consistent sizing**: All icons are 40px height for uniformity
+- **Proper spacing**: 12px gaps between icons for clean layout
+- **Hover tooltips**: Each icon shows the technology name on hover
+- **Organized sections**: Clear separation between Languages, Frontend, and Tools
+
+### 🚀 **Professional Look**:
+- Clean, modern devicons that match the actual technology branding
+- Better visual hierarchy with proper spacing
+- Responsive design that works on all screen sizes
+
+## 📝 **Setup Instructions**:
+
+1. **Replace your GitHub username** in all `your-github-username` placeholders
+2. **Update WhatsApp link** with your actual phone number
+3. **Customize the theme** if desired (current: tokyonight)
+4. **Add the snake animation** by setting up the GitHub Action in your profile repository
+
+The devicons provide a much cleaner, more professional appearance compared to badges, and they're instantly recognizable by other developers! 🎯
+
