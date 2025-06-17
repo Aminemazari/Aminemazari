@@ -2,7 +2,7 @@
 
 # 🌟 WELCOME 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Amine+Mazari;Software+Engineer+%26+Cybersecurity+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Amine+Mazari;Software+Engineer+%26;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
 </div>
 
@@ -81,31 +81,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Operating Systems" title="Operating Systems"/>
 </div>
 
----
-
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminemazari&layout=compact&theme=tokyonight"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
@@ -118,31 +99,3 @@
 
 </div>
 ```
-
-## 🎯 Key Updates Made:
-
-### ✨ **Modern Devicons Integration**:
-- **Languages**: JavaScript, Java, Python, C++ with their official colored icons
-- **Frontend**: React, Next.js, CSS3, Redux, Material-UI, Bootstrap, Ant Design
-- **Tools**: Git, Chrome, Firebase, LaTeX, MySQL, Linux icons
-
-### 🎨 **Enhanced Visual Appeal**:
-- **Consistent sizing**: All icons are 40px height for uniformity
-- **Proper spacing**: 12px gaps between icons for clean layout
-- **Hover tooltips**: Each icon shows the technology name on hover
-- **Organized sections**: Clear separation between Languages, Frontend, and Tools
-
-### 🚀 **Professional Look**:
-- Clean, modern devicons that match the actual technology branding
-- Better visual hierarchy with proper spacing
-- Responsive design that works on all screen sizes
-
-## 📝 **Setup Instructions**:
-
-1. **Replace your GitHub username** in all `your-github-username` placeholders
-2. **Update WhatsApp link** with your actual phone number
-3. **Customize the theme** if desired (current: tokyonight)
-4. **Add the snake animation** by setting up the GitHub Action in your profile repository
-
-The devicons provide a much cleaner, more professional appearance compared to badges, and they're instantly recognizable by other developers! 🎯
-
