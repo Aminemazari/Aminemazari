@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @Aminemazari
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently work in multiple projects
-- 💞️ I’m looking for inter as front-end dev
-- 📫 email me : a.mazariabdessameud@gmail.com
-- Protfolio:https://www.mazari.pro/
+🏫 I’m currently a computer systems engineering student at the Higher School of Computer Science .
 
-<!---
-Aminemazari/Aminemazari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🙋‍♂️ I'm interested in Software engineering.
+
+💁‍♂️ I’m looking to collaborate on open source software projects.
+
+📫 Reach me via a.mazariabdessameud@gmail.com .
