@@ -65,6 +65,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" height="40" alt="Ant Design" title="Ant Design"/>
 </div>
+### 🎨 Mobile Technologies
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>
+  <img width="12" />
+  <img src="https://seeklogo.com/images/E/expo-go-logo-01BB2BCFC4-seeklogo.com.png" height="40" alt="Next.js" title="Next.js"/>
+
+</div>
 
 ### 🛠️ Others
 <div align="center">
