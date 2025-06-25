@@ -65,16 +65,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" height="40" alt="Ant Design" title="Ant Design"/>
 </div>
-  🎨 Mobile Technologies
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/373591/expo.svg" height="40" alt="exp" title="exp"/>
 
+### 📱 Mobile Technologies
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" title="React Native"/>
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/373591/expo.svg" height="40" alt="Expo" title="Expo"/>
 </div>
 
 ### 🛠️ Others
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>
+  <img width="12" />
+  <img src="https://img.icons8.com/fluency/48/express-js.png" height="40" alt="Express.js" title="Express.js"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="Chrome Extensions" title="Chrome Extensions"/>
@@ -83,17 +87,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" title="LaTeX"/>
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux"/>
+</div>
+
+### 🗃️ Databases
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Operating Systems" title="Operating Systems"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/>
 </div>
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminemazari&layout=compact&theme=tokyonight"/>
 </p>
-
 
 ---
 
@@ -105,4 +115,3 @@
 [![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/your-github-username)
 
 </div>
-```
