@@ -69,7 +69,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="Next.js" title="Next.js"/>
+  <img src="https://www.svgrepo.com/svg/373591/expo" height="40" alt="Next.js" title="Next.js"/>
 
 </div>
 
